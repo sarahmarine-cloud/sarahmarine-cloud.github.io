@@ -1,9 +1,9 @@
-.navbar {
+navbar {
   background-color: #2BC45F;
   overflow: hidden; 
 }
 
-.navbar a {
+navbar a {
   float: left; 
   display: block; 
   color: green;
@@ -13,7 +13,7 @@
   font-family: Arial, sans-serif;
 }
 
-.navbar a:hover {
+navbar a:hover {
   background-color: #ddd; 
   color: darkgreen;
 }
